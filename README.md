@@ -1,6 +1,6 @@
 # Song Lyrics Classification
 
-![](/home/rakiburrahman/Desktop/Spiced/my_folder/eminem_word_cloud.jpg?raw=true)
+![most frequent words in Eminem songs](https://spiced.space/ordinal-oregano/ds-course/_images/eminem_word_cloud.jpg)
 
 ## Overview
 This project aims at building a text classification model on song lyrics. The task is to predict the artist from song text. Training such a model requires first of all that we collect our own lyrics dataset. We will focus on two artist from the "Heavy Metal" genre: Ronnie James Dio (Dio) and Ozzy Osbourne (Ozzy).
