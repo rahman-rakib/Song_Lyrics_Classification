@@ -1,6 +1,6 @@
 # Song Lyrics Classification
 
-<img src="https://i.pinimg.com/736x/c6/18/04/c618045ad56ce6708bc1ee64c3b68027--top-country-modern-country.jpg">
+<img src="https://i.redd.it/3z10k8345mr71.png">
 
 ## Overview
 This project aims at building a text classification model on song lyrics. The task is to predict the artist from song text. Training such a model requires first of all that we collect our own lyrics dataset. We will focus on two artist from the "Heavy Metal" genre: Ronnie James Dio (Dio) and Ozzy Osbourne (Ozzy).
